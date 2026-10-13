@@ -1,6 +1,6 @@
-## 5. Análisis de Brechas: Clasificación Preliminar de Sistemas
+# Análisis de Brechas
 
-### 5.1 Metodología de Clasificación
+## 1. Metodología de Clasificación
 
 El Reglamento Europeo de Inteligencia Artificial establece un enfoque basado en el riesgo. La clasificación no depende de la tecnología utilizada, sino del **uso** que se hace del sistema. Un sistema de IA se considera de alto riesgo cuando se utiliza en los ámbitos enumerados en el Anexo III del Reglamento.
 
@@ -11,7 +11,7 @@ Dos de estos ámbitos son directamente relevantes para el Ayuntamiento de Málag
 
 Adicionalmente, el Reglamento establece que un sistema de IA que realice **elaboración de perfiles (profiling)** de personas físicas se considera siempre de alto riesgo.
 
-### 5.2 Clasificación Preliminar: GeDIA
+## 2. Clasificación Preliminar: GeDIA
 
 | Campo | Evaluación |
 |-------|------------|
@@ -21,7 +21,7 @@ Adicionalmente, el Reglamento establece que un sistema de IA que realice **elabo
 | **Clasificación preliminar** | **Alto riesgo** |
 | **Justificación** | El sistema se utiliza para identificar y priorizar poblaciones vulnerables durante emergencias, lo que puede afectar el acceso a asistencia y protección. Además, realiza elaboración de perfiles mediante el cruce de múltiples conjuntos de datos personales. |
 
-### 5.3 Clasificación Preliminar: Google Workspace con Gemini
+## 3. Clasificación Preliminar: Google Workspace con Gemini
 
 | Campo | Evaluación |
 |-------|------------|
@@ -31,7 +31,7 @@ Adicionalmente, el Reglamento establece que un sistema de IA que realice **elabo
 | **Clasificación preliminar** | **Requiere análisis adicional** |
 | **Justificación** | Al tratarse de un sistema de propósito general desplegado a más de 3.500 empleados, su clasificación depende del uso concreto. Algunos usos podrían ser de alto riesgo (por ejemplo, si se utiliza para evaluar solicitudes de ayuda social), mientras que otros serían de riesgo mínimo. La clasificación debe realizarse a nivel de caso de uso, no de herramienta. |
 
-### 5.4 Brecha Identificada
+## 4. Brecha Identificada
 
 El análisis anterior revela una brecha operativa significativa:
 
