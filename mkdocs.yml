@@ -1,4 +1,18 @@
-site_name: AI Governance Málaga
+site_name: Gobernanza de IA en Málaga
 site_url: https://houda-benlemmouden.github.io/malaga-ai-governance/
+site_description: Análisis de gobernanza de inteligencia artificial en el sector público de Málaga
+
 theme:
   name: material
+  language: es
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Estado Actual: current-state.md
