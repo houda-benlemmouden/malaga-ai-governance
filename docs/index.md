@@ -21,9 +21,3 @@ Este documento analiza esa brecha operativa y propone una metodología para la e
 - **[Propuesta Metodológica](propuesta.md)**: Metodología propuesta para la elaboración del inventario de sistemas de IA.
 - **[Marco Normativo](marco-normativo.md)**: Referencia de los marcos regulatorios aplicables.
 - **[Sobre Este Proyecto](sobre.md)**: Autoría, metodología y fuentes.
-
----
-
-## Estado del documento
-
-Este documento se encuentra en desarrollo. Las secciones de Estado Actual y Análisis de Brechas están completas. La Propuesta Metodológica, el Marco Normativo y la sección Sobre Este Proyecto se encuentran en elaboración.
