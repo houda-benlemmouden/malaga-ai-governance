@@ -16,3 +16,7 @@ theme:
 nav:
   - Inicio: index.md
   - Estado Actual: current-state.md
+  - Análisis de Brechas: gap-analysis.md
+  - Propuesta Metodológica: propuesta.md
+  - Marco Normativo: marco-normativo.md
+  - Sobre Este Proyecto: sobre.md
