@@ -43,3 +43,53 @@ Específicamente, no se define:
 - Cómo conectar el inventario con la autoevaluación de madurez FEMP.IA
 
 Esta brecha operativa es el objeto del presente documento. El objetivo es proponer una metodología para la elaboración del inventario de sistemas de IA, alineada con el Reglamento Europeo de IA y con la metodología FEMP.IA, que permita a las entidades locales cumplir con los compromisos adquiridos en la Declaración de Málaga.
+
+## 4. Sistemas de IA Desplegados en Málaga
+
+### 4.1 GeDIA — Gemelo Digital de Ciudad
+
+**¿Qué es?**
+GeDIA es un gemelo digital de la ciudad de Málaga, una réplica virtual del entorno urbano que integra datos en tiempo real para simular escenarios y apoyar la toma de decisiones municipales. El sistema se utiliza operativamente en coordinación con el Centro Municipal de Emergencias (CME).
+
+**¿Qué hace?**
+El sistema utiliza redes neuronales LSTM, simulaciones de Monte Carlo y modelado basado en agentes para predecir el comportamiento de fenómenos como inundaciones. Durante la emergencia por lluvias de noviembre y diciembre de 2025, el Ayuntamiento utilizó la plataforma para:
+
+- Simular escenarios de crecida de agua
+- Identificar zonas potencialmente afectadas
+- Detectar poblaciones vulnerables
+- Localizar centros de evacuación
+
+**¿Qué datos procesa?**
+El sistema integra datos de más de 1.200 sensores IoT distribuidos en más de 200 ubicaciones (proyecto CENTESIMAL). Además, cruza datos de:
+
+- Urbanismo
+- Padrón municipal
+- Catastro (IBI)
+
+Esta integración de datos permite identificar poblaciones vulnerables ante inundaciones.
+
+**¿Quién lo supervisa?**
+El sistema se utiliza en coordinación con el Centro Municipal de Emergencias (CME). La responsabilidad política recae en el área de Innovación, Digitalización y Captación de Inversiones del Ayuntamiento de Málaga.
+
+### 4.2 Google Workspace con Gemini
+
+**¿Qué es?**
+Es una migración de más de 3.500 puestos de trabajo municipales a Google Workspace con capacidades de inteligencia artificial mediante Gemini. La inversión asciende a 1,68 millones de euros.
+
+**¿Qué hace?**
+Proporciona a los empleados municipales herramientas de IA para:
+
+- Creación de contenido
+- Búsqueda y análisis de información
+- Análisis de datos
+- Procesamiento digital mediante formularios en línea y autenticación mejorada
+
+**¿Qué datos procesa?**
+El sistema procesa datos de los empleados municipales y potencialmente datos ciudadanos que circulan por las herramientas de Workspace. La naturaleza de estos datos depende del uso que cada departamento haga de las herramientas.
+
+**¿Quién lo supervisa?**
+La implementación está a cargo de INNOVASUR, socio tecnológico certificado en ISO 42001 (sistema de gestión de IA). La migración comenzó en 2025 y se espera completar en 2026.
+
+### 4.3 Observación sobre el Inventario
+
+Los dos sistemas documentados arriba representan únicamente los casos públicamente conocidos. No existe, a la fecha de este documento, un registro público accesible que enumere la totalidad de los sistemas de IA utilizados por el Ayuntamiento de Málaga. Esta ausencia es precisamente lo que la Declaración de Málaga se compromete a corregir antes del próximo Congreso de RECI.
