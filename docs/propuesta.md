@@ -228,3 +228,111 @@ La autoevaluación, a su vez, identifica áreas de mejora que se incorporan al p
 ### 3.6 Conexión con la Fase de Evaluación
 
 Una vez validado y actualizado el inventario, cada sistema de alto riesgo se somete a la fase de evaluación, en la que se analizan los riesgos específicos y se determinan las medidas de control necesarias. Esta fase se desarrolla en la sección siguiente.
+
+## 4. Fase de Evaluación
+
+La clasificación determina qué sistemas son de alto riesgo. La evaluación determina qué riesgos específicos presentan esos sistemas y qué medidas deben adoptarse para controlarlos.
+
+Esta fase se aplica obligatoriamente a los sistemas clasificados como de **alto riesgo**. Para los sistemas de riesgo limitado y mínimo, se aplican medidas proporcionadas al nivel de riesgo identificado.
+
+### 4.1 Dimensiones de la Evaluación
+
+La evaluación analiza cada sistema de alto riesgo en seis dimensiones, alineadas con el Reglamento Europeo de IA, el RGPD y el marco NIST de gestión de riesgos de IA.
+
+| Dimensión | Pregunta de evaluación |
+|-----------|------------------------|
+| **Supervisión humana** | ¿Puede un ser humano comprender, supervisar e intervenir en el funcionamiento del sistema? |
+| **Transparencia y explicabilidad** | ¿Puede explicarse el funcionamiento del sistema a las personas afectadas y a los responsables de su supervisión? |
+| **Protección de datos y privacidad** | ¿Trata el sistema datos personales? ¿Se ha realizado una Evaluación de Impacto relativa a la Protección de Datos? |
+| **Equidad y sesgo** | ¿Existe riesgo de que el sistema produzca resultados discriminatorios para determinados grupos? |
+| **Seguridad y robustez** | ¿Está el sistema protegido contra ataques, manipulación y fallos técnicos? |
+| **Trazabilidad y registro** | ¿Genera el sistema registros suficientes para auditar sus decisiones y detectar incidentes? |
+
+### 4.2 Supervisión Humana
+
+Se evalúa si el sistema permite una supervisión humana efectiva conforme al Artículo 14 del Reglamento Europeo de IA. Los elementos a verificar son:
+
+- **Comprensión**: el operador humano comprende las capacidades y limitaciones del sistema.
+- **Vigilancia**: el operador puede detectar anomalías, disfunciones y resultados inesperados.
+- **Intervención**: el operador puede anular, corregir o detener el sistema.
+- **Documentación**: las intervenciones humanas quedan registradas.
+
+Si el sistema no permite una supervisión efectiva, se considera una deficiencia crítica que debe subsanarse antes de su uso continuado.
+
+### 4.3 Transparencia y Explicabilidad
+
+Se evalúa la capacidad de explicar el funcionamiento del sistema y las decisiones que produce. Los elementos a verificar son:
+
+- **Información al usuario**: las personas afectadas son informadas de que están interactuando con un sistema de IA.
+- **Explicación de decisiones**: las personas afectadas pueden obtener una explicación comprensible de las decisiones que les afectan, conforme al RGPD.
+- **Documentación técnica**: existe documentación sobre el diseño, el funcionamiento y las limitaciones del sistema.
+
+### 4.4 Protección de Datos y Privacidad
+
+Se evalúa el cumplimiento del RGPD en el tratamiento de datos personales. Los elementos a verificar son:
+
+- **Base jurídica**: existe una base legal para el tratamiento.
+- **Minimización**: se tratan únicamente los datos necesarios.
+- **Limitación de finalidad**: los datos se utilizan solo para los fines previstos.
+- **Evaluación de Impacto**: se ha realizado una EIPD cuando el tratamiento entraña alto riesgo.
+- **Derechos de las personas**: se garantizan los derechos de acceso, rectificación, supresión y oposición.
+
+La EIPD es obligatoria cuando el sistema realiza elaboración de perfiles o trata categorías especiales de datos.
+
+### 4.5 Equidad y Sesgo
+
+Se evalúa el riesgo de que el sistema produzca resultados discriminatorios. Los elementos a verificar son:
+
+- **Representatividad de los datos**: los datos de entrenamiento representan a la población afectada.
+- **Métricas de equidad**: se han medido los resultados del sistema por grupos demográficos.
+- **Detección de sesgos**: existen mecanismos para detectar y corregir sesgos.
+- **Revisión periódica**: se revisan los resultados de forma continua para detectar derivas.
+
+### 4.6 Seguridad y Robustez
+
+Se evalúa la resistencia del sistema frente a ataques y fallos. Los elementos a verificar son:
+
+- **Protección técnica**: el sistema está protegido contra accesos no autorizados y manipulación.
+- **Resistencia a errores**: el sistema se comporta de forma predecible ante datos anómalos.
+- **Gestión de incidentes**: existe un procedimiento para detectar, registrar y responder a incidentes.
+- **Actualizaciones**: el sistema se mantiene actualizado conforme a las recomendaciones del proveedor.
+
+### 4.7 Trazabilidad y Registro
+
+Se evalúa la capacidad de auditar el funcionamiento del sistema. Los elementos a verificar son:
+
+- **Registro automático**: el sistema genera registros de sus operaciones.
+- **Conservación**: los registros se conservan durante el período exigido por la normativa.
+- **Accesibilidad**: los registros están disponibles para auditoría interna y externa.
+- **Reconstrucción**: es posible reconstruir una decisión concreta a partir de los registros.
+
+### 4.8 Matriz de Evaluación
+
+El resultado de la evaluación se registra en una matriz que refleja, para cada sistema y cada dimensión, el nivel de cumplimiento y las medidas pendientes.
+
+| Dimensión | Nivel de cumplimiento | Medidas pendientes | Plazo | Responsable |
+|-----------|-----------------------|--------------------|-------|-------------|
+| Supervisión humana | Alto / Medio / Bajo | | | |
+| Transparencia y explicabilidad | Alto / Medio / Bajo | | | |
+| Protección de datos y privacidad | Alto / Medio / Bajo | | | |
+| Equidad y sesgo | Alto / Medio / Bajo | | | |
+| Seguridad y robustez | Alto / Medio / Bajo | | | |
+| Trazabilidad y registro | Alto / Medio / Bajo | | | |
+
+Los niveles de cumplimiento "Bajo" identifican deficiencias críticas que requieren actuación inmediata.
+
+### 4.9 Plan de Medidas
+
+Para cada deficiencia identificada se define una medida correctora con los siguientes elementos:
+
+- **Descripción** de la medida.
+- **Responsable** de su implementación.
+- **Plazo** de ejecución.
+- **Indicador** de cumplimiento.
+- **Fecha de verificación**.
+
+El plan de medidas se revisa periódicamente y se actualiza conforme se implementan las acciones.
+
+### 4.10 Conexión con la Fase de Monitorización
+
+La evaluación no es un ejercicio único. Una vez completada, los sistemas de alto riesgo se incorporan a un régimen de monitorización continua, en el que se revisan periódicamente los indicadores de riesgo y se actualizan las evaluaciones conforme evolucionan los sistemas y su contexto de uso.
