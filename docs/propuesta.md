@@ -336,3 +336,64 @@ El plan de medidas se revisa periódicamente y se actualiza conforme se implemen
 ### 4.10 Conexión con la Fase de Monitorización
 
 La evaluación no es un ejercicio único. Una vez completada, los sistemas de alto riesgo se incorporan a un régimen de monitorización continua, en el que se revisan periódicamente los indicadores de riesgo y se actualizan las evaluaciones conforme evolucionan los sistemas y su contexto de uso.
+
+## 5. Fase de Monitorización
+
+Esta fase describe el régimen de monitorización que la entidad debe establecer una vez completada la evaluación. Su definición forma parte de la presente metodología; su ejecución corresponde a los órganos competentes del Ayuntamiento.
+
+La evaluación proporciona una imagen del riesgo en un momento determinado. Los sistemas de IA, los datos que utilizan y el contexto en el que operan cambian con el tiempo. Sin un régimen de monitorización continua, la evaluación pierde validez y el inventario deja de reflejar la realidad.
+
+### 5.1 Objetivos de la Monitorización
+
+El régimen de monitorización persigue cuatro objetivos:
+
+- **Detectar derivas**: identificar cambios en el comportamiento del sistema que se aparten de lo previsto.
+- **Detectar incidentes**: identificar errores, fallos o usos indebidos que puedan causar daño.
+- **Verificar la eficacia de las medidas**: comprobar que las medidas correctoras definidas en la evaluación se implementan y funcionan.
+- **Mantener actualizada la clasificación**: revisar si los cambios en el uso del sistema alteran su nivel de riesgo.
+
+### 5.2 Indicadores de Monitorización
+
+Para cada sistema de alto riesgo se definen indicadores que permiten detectar desviaciones. Los indicadores se agrupan en cuatro categorías:
+
+| Categoría | Indicadores |
+|-----------|-------------|
+| **Rendimiento** | Precisión del sistema, tasa de falsos positivos, tasa de falsos negativos |
+| **Equidad** | Diferencias de resultados entre grupos demográficos, detección de sesgos emergentes |
+| **Supervisión humana** | Número de intervenciones humanas, número de anulaciones, motivos registrados |
+| **Incidentes** | Número de incidentes registrados, tiempo de respuesta, resolución |
+
+Cada indicador tiene un umbral de alerta. Cuando se supera, se activa el procedimiento de revisión correspondiente.
+
+### 5.3 Revisión Periódica
+
+La monitorización se articula en tres ciclos:
+
+| Ciclo | Frecuencia | Contenido |
+|-------|------------|-----------|
+| Ciclo operativo | Mensual | Revisión de indicadores de rendimiento e incidentes |
+| Ciclo de supervisión | Trimestral | Revisión de indicadores de equidad y supervisión humana |
+| Ciclo de evaluación | Anual | Revisión completa de la evaluación y actualización de la clasificación |
+
+### 5.4 Procedimiento ante Incidentes
+
+Cuando se detecta un incidente, se activa el siguiente procedimiento:
+
+1. **Registro del incidente**: documentación de lo ocurrido, el sistema afectado, las personas afectadas y el impacto.
+2. **Evaluación inicial**: determinación de la gravedad y de la necesidad de medidas inmediatas.
+3. **Notificación**: comunicación a los órganos competentes y, cuando proceda, a las autoridades de supervisión.
+4. **Análisis de causa**: identificación de las causas del incidente.
+5. **Medidas correctoras**: definición e implementación de las medidas necesarias.
+6. **Verificación**: comprobación de la eficacia de las medidas adoptadas.
+
+### 5.5 Actualización del Inventario
+
+Los resultados de la monitorización alimentan la actualización del inventario. Los cambios en el uso de un sistema, la incorporación de nuevos datos, o la modificación de sus funciones pueden alterar su clasificación de riesgo. Cuando esto ocurre, el sistema se somete de nuevo a la fase de clasificación.
+
+### 5.6 Conexión con la Autoevaluación FEMP.IA
+
+Los datos de monitorización alimentan la autoevaluación de madurez prevista en la metodología FEMP.IA, en particular los bloques de gobernanza, ética y resultados. La autoevaluación, a su vez, permite identificar áreas de mejora que se incorporan al plan de mejora previsto en la Declaración de Málaga.
+
+### 5.7 Conexión con el Ciclo de Mejora Continua
+
+La monitorización cierra el ciclo de la metodología. Los resultados de la monitorización alimentan la revisión del inventario, la reclasificación de sistemas y la actualización de las evaluaciones. De este modo, la gobernanza de IA no es un ejercicio puntual, sino un proceso continuo de mejora.
