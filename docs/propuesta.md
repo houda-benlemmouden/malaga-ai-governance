@@ -160,3 +160,71 @@ La clasificación determina las obligaciones que la entidad debe cumplir:
 ### 2.7 Conexión con la Fase de Evaluación
 
 La clasificación no es un fin en sí mismo. Es el punto de partida para la fase de evaluación, en la que se analizan los riesgos específicos de cada sistema y se determinan las medidas de control necesarias. Esta fase se desarrolla en la sección siguiente.
+
+## 3. Fase de Validación y Mantenimiento
+
+Un inventario no es un documento estático. Es un registro vivo que debe reflejar la realidad cambiante de los sistemas de IA en la organización. Esta fase garantiza que el inventario sea completo, preciso y esté actualizado.
+
+### 3.1 Validación de la Exhaustividad
+
+La validación tiene como objetivo confirmar que el inventario refleja todos los sistemas de IA en uso, no solo los declarados voluntariamente.
+
+Se aplican tres mecanismos complementarios:
+
+**Mecanismo 1: Contraste con la revisión técnica**
+
+Los resultados de la encuesta se contrastan con los resultados de la revisión técnica de contratos, aplicaciones y proveedores. Si un sistema aparece en la revisión técnica pero no en la encuesta, se investiga la discrepancia y se incorpora al inventario.
+
+**Mecanismo 2: Confirmación por los departamentos**
+
+Cada departamento recibe el extracto del inventario que le corresponde y debe confirmar por escrito que la información es completa y correcta. Esta confirmación tiene dos efectos:
+
+- Traslada la responsabilidad de la exhaustividad al departamento.
+- Crea un registro documental de la declaración realizada.
+
+La confirmación no es una formalidad. Es un acto con consecuencias. Si un sistema no declarado se identifica posteriormente, la entidad dispone de un registro que muestra qué departamento omitió la información y cuándo.
+
+**Mecanismo 3: Revisión cruzada entre departamentos**
+
+Determinados sistemas afectan a varios departamentos. Por ejemplo, un sistema de gestión de ayudas sociales puede ser utilizado por Servicios Sociales pero alimentado con datos de otros departamentos. La revisión cruzada permite identificar sistemas que ningún departamento considera propios pero que están en uso.
+
+### 3.2 Gestión de Sistemas No Declarados
+
+Cuando se identifica un sistema de IA que no fue declarado en la encuesta inicial, se activa el siguiente procedimiento:
+
+1. **Registro del sistema** en el inventario con la marca de "identificado en validación".
+2. **Notificación al departamento** correspondiente, solicitando información funcional y confirmación.
+3. **Análisis de la causa** de la omisión: desconocimiento, adquisición descentralizada, cambio de proveedor, u otras causas.
+4. **Incorporación al ciclo de clasificación** conforme a la sección 2.
+
+Este procedimiento no tiene carácter sancionador. Su finalidad es corregir el inventario, no penalizar al departamento. No obstante, la reiteración de omisiones en un mismo departamento puede dar lugar a acciones de formación o de control interno.
+
+### 3.3 Actualización Periódica
+
+El inventario se actualiza conforme a tres ciclos:
+
+| Ciclo | Frecuencia | Contenido |
+|-------|------------|-----------|
+| Ciclo ordinario | Trimestral | Incorporación de nuevos sistemas, actualización de estados, revisión de sistemas en desarrollo |
+| Ciclo de revisión | Anual | Revisión completa del inventario, reclasificación de sistemas, actualización de evaluaciones |
+| Ciclo extraordinario | Cuando ocurra | Incorporación de sistemas adquiridos de urgencia, cambios normativos, incidentes relevantes |
+
+### 3.4 Integración con los Procesos de Contratación
+
+Para evitar que nuevos sistemas de IA se incorporen sin conocimiento de la unidad de gobernanza, se establece la siguiente medida:
+
+- **Criterio de inclusión en contratación**: todo contrato de adquisición de software o servicios tecnológicos debe incluir una declaración del proveedor sobre la presencia de componentes de IA.
+- **Revisión previa**: la unidad de gobernanza de IA revisa los contratos que incluyan componentes de IA antes de su formalización.
+- **Registro automático**: los sistemas identificados en contratación se incorporan al inventario desde su fase de diseño.
+
+Esta integración convierte la contratación en una fuente sistemática de identificación, en lugar de depender exclusivamente de la declaración de los departamentos.
+
+### 3.5 Conexión con la Autoevaluación FEMP.IA
+
+El inventario es un insumo para la autoevaluación de madurez prevista en la metodología FEMP.IA. Los datos del inventario permiten responder a las preguntas del formulario de madurez directiva en los bloques de gobernanza, ética y resultados.
+
+La autoevaluación, a su vez, identifica áreas de mejora que se incorporan al plan de mejora previsto en la Declaración de Málaga.
+
+### 3.6 Conexión con la Fase de Evaluación
+
+Una vez validado y actualizado el inventario, cada sistema de alto riesgo se somete a la fase de evaluación, en la que se analizan los riesgos específicos y se determinan las medidas de control necesarias. Esta fase se desarrolla en la sección siguiente.
