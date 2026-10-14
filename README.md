@@ -19,20 +19,6 @@ La documentación completa está disponible en:
 
 **https://houda-benlemmouden.github.io/malaga-ai-governance/**
 
-## 📁 Estructura del Proyecto
-
-.
-├── docs/
-│ ├── index.md # Página de inicio
-│ ├── current-state.md # Estado actual
-│ ├── gap-analysis.md # Análisis de brechas
-│ ├── propuesta.md # Propuesta metodológica
-│ ├── marco-normativo.md # Marco normativo de referencia
-│ └── sobre.md # Sobre el proyecto
-├── mkdocs.yml # Configuración de MkDocs
-└── README.md # Este archivo
-
-
 ## 🔧 Tecnologías Utilizadas
 
 - **MkDocs** con tema **Material**
