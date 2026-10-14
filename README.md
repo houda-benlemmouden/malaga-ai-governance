@@ -20,3 +20,41 @@ La documentación completa está disponible en:
 **https://houda-benlemmouden.github.io/malaga-ai-governance/**
 
 ## 📁 Estructura del Proyecto
+
+.
+├── docs/
+│ ├── index.md # Página de inicio
+│ ├── current-state.md # Estado actual
+│ ├── gap-analysis.md # Análisis de brechas
+│ ├── propuesta.md # Propuesta metodológica
+│ ├── marco-normativo.md # Marco normativo de referencia
+│ └── sobre.md # Sobre el proyecto
+├── mkdocs.yml # Configuración de MkDocs
+└── README.md # Este archivo
+
+
+## 🔧 Tecnologías Utilizadas
+
+- **MkDocs** con tema **Material**
+- **Markdown** para la redacción de contenido
+- **GitHub Pages** para el despliegue
+- **GitHub Actions** para integración continua
+
+## 📚 Marcos de Referencia
+
+- Reglamento Europeo de Inteligencia Artificial (UE) 2024/1689
+- Reglamento General de Protección de Datos (RGPD)
+- ISO/IEC 42001 (Sistema de Gestión de IA)
+- NIST AI Risk Management Framework
+- Metodología FEMP.IA
+
+## 👤 Autora
+
+**Houda Benlemmouden**
+
+- LinkedIn: [www.linkedin.com/in/houdab86](http://www.linkedin.com/in/houdab86)
+- Email: [houdaben3005@gmail.com](mailto:houdaben3005@gmail.com)
+
+## ⚖️ Aviso
+
+Este documento se publica con fines de análisis y divulgación. Su contenido no constituye asesoramiento jurídico ni sustituye la consulta con profesionales especializados en la materia.
