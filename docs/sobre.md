@@ -22,8 +22,9 @@ El documento se estructura en cuatro partes:
 
 1. **Estado Actual**: descripción del compromiso institucional de Málaga y de los sistemas de IA públicamente conocidos en uso.
 2. **Análisis de Brechas**: clasificación preliminar de los sistemas identificados según el Reglamento Europeo de IA, e identificación de la brecha operativa.
-3. **Propuesta Metodológica**: metodología para la elaboración del inventario de sistemas de IA, estructurada en cinco fases: identificación, clasificación, validación, evaluación y monitorización.
-4. **Marco Normativo**: referencia de los marcos regulatorios y metodológicos aplicables.
+3. **Marco Normativo**: referencia de los marcos regulatorios y metodológicos aplicables.
+4. **Propuesta Metodológica**: metodología para la elaboración del inventario de sistemas de IA, estructurada en cinco fases: identificación, clasificación, validación, evaluación y monitorización.
+
 
 La información utilizada proviene exclusivamente de fuentes públicas: la Declaración de Málaga, comunicados institucionales del Ayuntamiento de Málaga, documentación pública de los sistemas desplegados, y los textos oficiales del Reglamento Europeo de IA, el RGPD, la norma ISO/IEC 42001 y el marco NIST.
 
