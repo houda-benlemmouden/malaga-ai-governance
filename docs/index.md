@@ -38,8 +38,8 @@ Además, los responsables del despliegue de sistemas de alto riesgo que sean **a
 
 - **[Estado Actual](current-state.md)**: Qué ha comprometido Málaga y qué sistemas de IA tiene desplegados actualmente.
 - **[Análisis de Brechas](gap-analysis.md)**: Clasificación preliminar de los sistemas identificados según el Reglamento Europeo de IA.
-- **[Propuesta Metodológica](propuesta.md)**: Metodología propuesta para la elaboración del inventario de sistemas de IA.
 - **[Marco Normativo](marco-normativo.md)**: Referencia de los marcos regulatorios aplicables, con su estado de vigencia.
+- **[Propuesta Metodológica](propuesta.md)**: Metodología propuesta para la elaboración del inventario de sistemas de IA.
 - **[Sobre Este Proyecto](sobre.md)**: Autoría, metodología y fuentes.
 
 ---
