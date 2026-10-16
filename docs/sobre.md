@@ -51,6 +51,8 @@ El contenido de este documento se publica bajo licencia Creative Commons BY 4.0:
 
 Este documento se publica con fines de análisis y divulgación. Su contenido no constituye asesoramiento jurídico ni sustituye la consulta con profesionales especializados en la materia.
 
+Este análisis refleja el estado de la información pública disponible a 16 de octubre de 2026. No se actualiza de forma continua. Las afirmaciones de hecho se basan en las fuentes citadas en cada página.
+
 ---
 
 ## Fuentes Principales
