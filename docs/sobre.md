@@ -32,14 +32,15 @@ No se ha utilizado información confidencial ni datos internos de ninguna entida
 
 ## Fuentes Principales
 
-- **Declaración de Málaga** (VI Congreso Smart City RECI, septiembre de 2026): [https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/180023/COMUNICADO.pdf](https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/180023/COMUNICADO.pdf) [citation:22]
+- **Declaración de Málaga** (VI Congreso Smart City RECI, septiembre de 2026): [https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/180023/COMUNICADO.pdf](https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/180023/COMUNICADO.pdf) 
 - **Guía Práctica y Políticas de Uso de la Inteligencia Artificial en las Entidades Locales** (FEMP)
 - **Metodología FEMP.IA** (Federación Española de Municipios y Provincias)
 - **Reglamento (UE) 2024/1689** por el que se establecen normas armonizadas en materia de inteligencia artificial: [https://eur-lex.europa.eu/eli/reg/2024/1689/oj](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
 - **Reglamento General de Protección de Datos (RGPD)**: [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
 - **ISO/IEC 42001**: Sistema de Gestión de Inteligencia Artificial: [https://www.iso.org/standard/42001](https://www.iso.org/standard/42001)
 - **NIST AI Risk Management Framework**: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- **Información pública sobre GeDIA y la migración a Google Workspace con Gemini del Ayuntamiento de Málaga**: [https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=177140](https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=177140) [citation:25][citation:30]
+- **Información pública sobre GeDIA y la migración a Google Workspace con Gemini del Ayuntamiento de Málaga**: [https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=177140](https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=177140) 
+- [https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/174611/NOTAINFO](https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/174611/NOTAINFO)
 
 ## Contacto
 
