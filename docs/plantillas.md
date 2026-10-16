@@ -14,7 +14,7 @@ Documento destinado a los departamentos municipales para detectar los sistemas d
 
 Hoja de cálculo con seis pestañas que cubren el ciclo completo de la metodología: Inventario (ficha mínima de cada sistema), Clasificación (artículo 6 del Reglamento Europeo de IA, con listas desplegables), Casos de uso (para herramientas de propósito general), Evaluación (matriz de seis dimensiones) y Monitorización (indicadores con umbrales de alerta). La pestaña Instrucciones resume las reglas de uso y los plazos normativos.
 
-[Descargar el registro maestro](inventario-sistemas-ia.xlsx)
+[Descargar el registro maestro](https://github.com/houda-benlemmouden/malaga-ai-governance/raw/main/files/inventario-sistemas-ia.xlsx)
 
 **Cómo desplegarlo:** abrir en Excel, LibreOffice o Google Sheets (Archivo, Importar). Mantener una única copia maestra custodiada por la unidad de gobernanza de IA; los departamentos no editan el registro, solo aportan información a través del cuestionario.
 
