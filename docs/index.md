@@ -2,7 +2,7 @@
 
 ## Un análisis de la brecha operativa en la elaboración del inventario de sistemas de IA
 
-- * *
+---
 
 ## Resumen
 
@@ -14,7 +14,7 @@ Sin embargo, ni la Declaración ni los documentos de referencia que cita (la Gu�
 
 Este documento analiza esa brecha operativa y propone una metodología para la elaboración del inventario de sistemas de IA, alineada con el Reglamento Europeo de IA, incluida su modificación por el Ómnibus digital sobre IA, y con la metodología FEMP.IA.
 
-- * *
+---
 
 ## Contexto normativo (octubre de 2026)
 
@@ -32,29 +32,20 @@ Además, los responsables del despliegue de sistemas de alto riesgo que sean **a
 
 **Marco español.** La Agencia Española de Supervisión de la Inteligencia Artificial (AESIA), creada por el Real Decreto 729/2023 con sede en A Coruña, ejerce funciones de supervisión de la normativa de IA. El proyecto de ley para el buen uso y la gobernanza de la inteligencia artificial, aprobado por el Consejo de Ministros el 26 de mayo de 2026, se encuentra en tramitación parlamentaria y prevé designar a AESIA como autoridad de vigilancia de mercado y punto de contacto único con la Unión Europea.
 
-- * *
+---
 
 ## Contenido
 
-- **Estado Actual**: Qué ha comprometido Málaga y qué sistemas de IA tiene desplegados actualmente.
-- **Análisis de Brechas**: Clasificación preliminar de los sistemas identificados según el Reglamento Europeo de IA.
-- **Propuesta Metodológica**: Metodología propuesta para la elaboración del inventario de sistemas de IA.
-- **Marco Normativo**: Referencia de los marcos regulatorios aplicables, con su estado de vigencia.
-- **Sobre Este Proyecto**: Autoría, metodología y fuentes.
-- * *
+- **[Estado Actual](current-state.md)**: Qué ha comprometido Málaga y qué sistemas de IA tiene desplegados actualmente.
+- **[Análisis de Brechas](gap-analysis.md)**: Clasificación preliminar de los sistemas identificados según el Reglamento Europeo de IA.
+- **[Propuesta Metodológica](propuesta.md)**: Metodología propuesta para la elaboración del inventario de sistemas de IA.
+- **[Marco Normativo](marco-normativo.md)**: Referencia de los marcos regulatorios aplicables, con su estado de vigencia.
+- **[Sobre Este Proyecto](sobre.md)**: Autoría, metodología y fuentes.
 
-## Navegación
-
-|  |  |
-| --- | --- |
-| **Anterior**: (portada) | **Siguiente**: [Estado Actual →](current-state/) |
-| [Análisis de Brechas](gap-analysis/) | [Propuesta Metodológica](propuesta/) |
-| [Marco Normativo](marco-normativo/) | [Sobre Este Proyecto](sobre/) |
-
-- * *
+---
 
 ## Nota sobre este documento
 
 Este es un documento independiente, elaborado por Houda Benlemmouden exclusivamente a partir de fuentes públicas, con fines de análisis y divulgación. No tiene carácter oficial ni vinculación institucional alguna con el Ayuntamiento de Málaga, con RECI o con ninguna otra entidad mencionada. Las descripciones de sistemas concretos se basan en comunicados institucionales y prensa públicos, son meramente descriptivas y no constituyen valoraciones sobre personas, empresas o administraciones. El contenido no constituye asesoramiento jurídico.
 
-Fecha de revisión: 16 de octubre de 2026. Las afirmaciones de hecho incluyen referencia a su fuente pública.
+*Fecha de revisión: 16 de octubre de 2026. Las afirmaciones de hecho incluyen referencia a su fuente pública.*

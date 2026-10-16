@@ -11,12 +11,21 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+    - navigation.footer
     - content.code.copy
+    - toc.integrate
 
 nav:
   - Inicio: index.md
   - Estado Actual: current-state.md
   - Análisis de Brechas: gap-analysis.md
-  - Marco Normativo: marco-normativo.md
   - Propuesta Metodológica: propuesta.md
+  - Marco Normativo: marco-normativo.md
   - Sobre Este Proyecto: sobre.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - pymdownx.superfences
