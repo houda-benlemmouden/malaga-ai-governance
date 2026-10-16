@@ -6,7 +6,7 @@ Las dos plantillas siguientes son los entregables de la Fase 1 (Identificación)
 
 Documento destinado a los departamentos municipales para detectar los sistemas de IA en uso. Incluye cinco preguntas de tamizaje, una ficha por sistema identificado, un registro de casos de uso de herramientas con IA integrada y una declaración responsable firmada por cada departamento.
 
-[Descargar el cuestionario](cuestionario-identificacion.md)
+[Descargar el registro maestro](https://github.com/houda-benlemmouden/malaga-ai-governance/raw/main/files/cuestionario-identificacion.pdf)
 
 **Cómo desplegarlo:** copiar el contenido en Google Forms o Microsoft Forms (un bloque por sección) y distribuir el enlace a todos los departamentos con un plazo de devolución. La declaración responsable del Bloque E se recoge firmada en papel o mediante firma electrónica simple.
 
