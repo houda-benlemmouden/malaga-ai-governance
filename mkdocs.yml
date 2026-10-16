@@ -21,6 +21,7 @@ nav:
   - Análisis de Brechas: gap-analysis.md
   - Marco Normativo: marco-normativo.md
   - Propuesta Metodológica: propuesta.md
+  - Plantillas: plantillas.md
   - Sobre Este Proyecto: sobre.md
 
 markdown_extensions:
