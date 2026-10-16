@@ -6,8 +6,18 @@ theme:
   name: material
   language: es
   palette:
-    primary: indigo
-    accent: indigo
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
   features:
     - navigation.instant
     - navigation.top
